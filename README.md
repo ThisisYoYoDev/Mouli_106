@@ -3,7 +3,7 @@
 
 ## Usage
 ```
-git clone and launch "./Mouli_106/Mouli_106"
+git clone (in your directory) and launch "./Mouli_106/Mouli_106"
 ```
 Support C and Python3
 
